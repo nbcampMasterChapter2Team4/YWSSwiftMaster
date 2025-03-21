@@ -9,8 +9,17 @@
 //MARK: - 필수 문제 1
 
 
-// 2. sum을 호출
 print(sum(3, 5))
 
 calculate(operation: sum)
+
+//MARK: - 필수 문제 2
+
+print(resultStrings)
+
+print(evenNumbersAsString)
+
+print(mappedResult)
+
+
 
