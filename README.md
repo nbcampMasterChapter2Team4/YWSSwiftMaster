@@ -1,5 +1,10 @@
-#YWSSwiftMaster
+# YWSSwiftMaster
 
+내배캠 iOS 마스터 6기 3주차 과제
+
+---
+
+## 필수 구현
 ### 필수 문제 1
 
 - [ ]  두 개의 Int 값을 파라미터로 받고, 하나의 String 값을 반환하는 클로저를 설계해주세요.
